@@ -1,5 +1,9 @@
 # CS50's Introduction to Artificial Intelligence with Python
 
+<p align="center">
+  <img src="https://github.com/Salma-Talat-Shaheen/CS50s-Introduction-to-Artificial-Intelligence-with-Python/blob/main/Certificate/CS50AI_Salma.png" alt="Alt Text" width="600"/>
+</p>
+
 This repository contains my solutions to the projects from the [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) course by **Harvard University**.  
 Throughout this course, I explored foundational AI concepts and implemented them using Python, covering areas such as search, logic, machine learning, and natural language processing.
 
