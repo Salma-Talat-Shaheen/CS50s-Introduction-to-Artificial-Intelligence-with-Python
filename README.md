@@ -29,12 +29,16 @@ Throughout this course, I explored foundational AI concepts and implemented them
 
 ## ✦ Topics Covered
 
-- Search Algorithms (BFS, DFS, Minimax)
-- Knowledge Representation and Logic
-- Inference and Probability
-- Machine Learning (Supervised & Reinforcement)
-- Natural Language Processing (NLP)
-- Python Libraries: `numpy`, `nltk`, `scikit-learn`
+- **Search Algorithms**: Depth-First Search, Breadth-First Search, A*, Minimax
+- **Knowledge Representation**: Propositional Logic, Logical Inference, Model Checking
+- **Probability and Inference**: Bayesian Networks, Probabilistic Reasoning
+- **Machine Learning**:
+  - **Supervised Learning**: Naive Bayes Classifier
+  - **Reinforcement Learning**: Q-Learning
+- **Natural Language Processing (NLP)**:
+  - Tokenization, Parsing with CFG, Attention Mechanisms
+- **AI Concepts**: Constraint Satisfaction, Genetic Inheritance, Page Ranking
+- **Python Libraries**: `numpy`, `pandas`, `nltk`, `scikit-learn`
 
 ---
 
