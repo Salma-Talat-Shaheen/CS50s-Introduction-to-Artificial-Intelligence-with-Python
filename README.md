@@ -11,18 +11,20 @@ Throughout this course, I explored foundational AI concepts and implemented them
 
 ## ✦ Projects Overview
 
-| Project     | Description |
-|------------|-------------|
-| `0 - Tic Tac Toe` | Build an unbeatable AI using the **Minimax** algorithm. |
-| `1 - Knights` | Solve logic puzzles using **propositional logic** and model checking. |
-| `2 - Minesweeper` | Create a Minesweeper AI using **logical inference**. |
-| `3 - Degrees` | Find the shortest connection between two actors using **BFS**. |
-| `4 - Nim` | Train an AI to play the game of Nim using **reinforcement learning**. |
-| `5 - Heredity` | Use **probability** to determine genetic inheritance. |
-| `6 - Traffic` | Apply **Bayesian networks** to model traffic conditions. |
-| `7 - Shopping` | Predict customer behavior using **Naive Bayes classification**. |
-| `8 - Parser` | Parse English sentences with **context-free grammar (CFG)** and extract noun phrases. |
-
+| Project         | Description |
+|-----------------|-------------|
+| `Degrees`       | Find the shortest path between actors using **Breadth-First Search (BFS)**. |
+| `Tic-Tac-Toe`   | Build an unbeatable AI using the **Minimax algorithm**. |
+| `Knights`       | Solve logic puzzles using **propositional logic** and **model checking**. |
+| `Minesweeper`   | Create an AI that plays Minesweeper using **logical inference**. |
+| `Heredity`      | Calculate gene and trait inheritance probabilities using **Bayesian inference**. |
+| `PageRank`      | Rank web pages using **link structure** and the **PageRank algorithm**. |
+| `Crossword`     | Automatically generate crossword puzzles using **constraint satisfaction problems (CSP)**. |
+| `Nim`           | Train an AI to play Nim using **Q-learning** (a type of **reinforcement learning**). |
+| `Shopping`      | Predict shopping behavior using **Naive Bayes classification** on customer data. |
+| `Traffic`       | Use a **Bayesian network** to predict traffic conditions. |
+| `Attention`     | Implement a **transformer model** to summarize context using **self-attention mechanisms**. |
+| `Parser`        | Parse sentences using **context-free grammar (CFG)** and extract **noun phrases** with NLTK. |
 ---
 
 ## ✦ Topics Covered
